@@ -1,0 +1,22 @@
+{
+    "description": "",
+    "processes": {
+        "sapabapoperator1": {
+            "component": "com.sap.abap.sap",
+            "metadata": {
+                "label": "SAP ABAP Operator",
+                "x": 228,
+                "y": 124,
+                "height": 80,
+                "width": 120,
+                "extensible": true,
+                "config": {}
+            }
+        }
+    },
+    "groups": [],
+    "connections": [],
+    "inports": {},
+    "outports": {},
+    "properties": {}
+}
