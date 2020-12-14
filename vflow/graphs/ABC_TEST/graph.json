@@ -1,6 +1,19 @@
 {
     "description": "",
-    "processes": {},
+    "processes": {
+        "customabapoperator1": {
+            "component": "com.sap.abap.custom",
+            "metadata": {
+                "label": "Custom ABAP Operator",
+                "x": 172,
+                "y": 166,
+                "height": 80,
+                "width": 120,
+                "extensible": true,
+                "config": {}
+            }
+        }
+    },
     "groups": [],
     "connections": [],
     "inports": {},
